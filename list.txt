@@ -10,3 +10,4 @@ tomtaten
 gurkerl
 paprika
 salat
+bananen
